@@ -1,6 +1,6 @@
 # Memories
 
-==> checkout the deployed website here - https://memorybook-v1.netlify.app/posts
+==> checkout the deployed website here - https://memorybook-v1.netlify.app/
 
 ## Introduction
 
